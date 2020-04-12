@@ -197,5 +197,5 @@ dmypy.json
 .pyre/
 
 # End of https://www.gitignore.io/api/python,pycharm
-catalog/db.sqlite3
+project/catalog/db.sqlite3
 
